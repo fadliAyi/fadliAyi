@@ -1,49 +1,32 @@
 
-<img src="https://komarev.com/ghpvc/?username=ukieTux&color=ff69b4&style=flat-square" align="right" height=24 />
-<a href = "mailto: hey.mudassir@gmail.com">
-<img src="https://github.com/ukieTux/ukieTux/blob/master/open2work.svg"  height=28  /></a>
-<br/>
-<br/>
 <p align="center">
   <samp>
-   Hello 👋,  I'm Mudassir 😎
+   Hello 👋
     <br><br>
-    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer Expert 📱 ✖︎ Tech Enthusiast 🔥⌟
+    ⌜Software Engineer 👨‍💻 ✖︎ Work in Pallaka Studio 💼⌟
   </samp>
 <br><br>
-
-📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Week: 14 March, 2021 - 21 March, 2021
-
-Dart         16 hrs 20 mins  ████████████████████▒░░░░   81.58 % 
-Other        1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Kotlin       44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-YAML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Properties   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-```
-<!--END_SECTION:waka-->
-
-
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&show_icons=true)
-
 
 ---
 
 <h3 align="center">Languages and Frameworks 📖</h3>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
+  <!-- For more icons please follow  https://github.com/Ileriayo/markdown-badges -->
 
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/typescript.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+
+  <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
+
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+  
 
 ---
 
@@ -52,45 +35,19 @@ Properties   36 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
 
-  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/jetbrains_intellij.svg" alt="Intellij CE" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=28>
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=28>
-    
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/mac.svg" alt="mbp2018" style="vertical-align:top; margin:4px" height=28>
+<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 ---
 
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://t.me/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://twitter.com/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
+  <a href="https://t.me/fadlimuhh" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
----
-<h3 align="center">Buy me coffee if you love my works ☕️</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ukieTux" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://ko-fi.com/ukietux" target="_blank">
-    <img src="https://help.ko-fi.com/system/photos/3604/0095/9793/logo_circle.png" alt="ko-fi" style="vertical-align:top; margin:8px" height="36">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/ukieTux" target="_blank">
-    <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="36">
-  </a>
-</p>
-<br><br>
+
