@@ -3,7 +3,7 @@
   <samp>
    Hello 👋
     <br><br>
-    ⌜Software Engineer 👨‍💻 ✖︎ Work in Pallaka Studio 💼⌟
+    ⌜Software Engineer 👨‍💻 ✖︎⌟
   </samp>
 <br><br>
 
